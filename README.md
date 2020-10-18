@@ -9,4 +9,4 @@ JQuery Homework assignment (Day Planner).
 * Bootstrap
 
 ## Try it
-
+https://ibramelias.github.io/DayPlanner/.
