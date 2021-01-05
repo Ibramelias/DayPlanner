@@ -9,7 +9,7 @@ Use [DayPlanner](https://ibramelias.github.io/DayPlanner/.) to save your daily m
 * Bootstrap
 
 ## Try it
-https://ibramelias.github.io/DayPlanner/.
+[DayPlanner](https://ibramelias.github.io/DayPlanner/.)
 
 ## Screenshot
 
