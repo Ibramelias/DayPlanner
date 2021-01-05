@@ -1,6 +1,6 @@
 # DayPlanner
 
-JQuery Homework assignment (Day Planner).
+Use [DayPlanner](https://ibramelias.github.io/DayPlanner/.) to save your daily meetings  .
 
 ## Build with
 * HTML
